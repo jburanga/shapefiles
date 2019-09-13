@@ -1,0 +1,3746 @@
+[
+ {
+   "OBJECTID": 1,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 11,
+   "District": "Nyarugenge",
+   "Sect_ID": 1101,
+   "Sector": "Gitega"
+ },
+ {
+   "OBJECTID": 2,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 11,
+   "District": "Nyarugenge",
+   "Sect_ID": 1102,
+   "Sector": "Kanyinya"
+ },
+ {
+   "OBJECTID": 3,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 11,
+   "District": "Nyarugenge",
+   "Sect_ID": 1103,
+   "Sector": "Kigali"
+ },
+ {
+   "OBJECTID": 4,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 11,
+   "District": "Nyarugenge",
+   "Sect_ID": 1104,
+   "Sector": "Kimisagara"
+ },
+ {
+   "OBJECTID": 5,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 11,
+   "District": "Nyarugenge",
+   "Sect_ID": 1105,
+   "Sector": "Mageregere"
+ },
+ {
+   "OBJECTID": 6,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 11,
+   "District": "Nyarugenge",
+   "Sect_ID": 1106,
+   "Sector": "Muhima"
+ },
+ {
+   "OBJECTID": 7,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 11,
+   "District": "Nyarugenge",
+   "Sect_ID": 1107,
+   "Sector": "Nyakabanda"
+ },
+ {
+   "OBJECTID": 8,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 11,
+   "District": "Nyarugenge",
+   "Sect_ID": 1108,
+   "Sector": "Nyamirambo"
+ },
+ {
+   "OBJECTID": 9,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 11,
+   "District": "Nyarugenge",
+   "Sect_ID": 1109,
+   "Sector": "Nyarugenge S"
+ },
+ {
+   "OBJECTID": 10,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 11,
+   "District": "Nyarugenge",
+   "Sect_ID": 1110,
+   "Sector": "Rwezamenyo"
+ },
+ {
+   "OBJECTID": 11,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 12,
+   "District": "Gasabo",
+   "Sect_ID": 1201,
+   "Sector": "Bumbogo"
+ },
+ {
+   "OBJECTID": 12,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 12,
+   "District": "Gasabo",
+   "Sect_ID": 1202,
+   "Sector": "Gatsata"
+ },
+ {
+   "OBJECTID": 13,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 12,
+   "District": "Gasabo",
+   "Sect_ID": 1203,
+   "Sector": "Gikomero"
+ },
+ {
+   "OBJECTID": 14,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 12,
+   "District": "Gasabo",
+   "Sect_ID": 1204,
+   "Sector": "Gisozi"
+ },
+ {
+   "OBJECTID": 15,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 12,
+   "District": "Gasabo",
+   "Sect_ID": 1205,
+   "Sector": "Jabana"
+ },
+ {
+   "OBJECTID": 16,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 12,
+   "District": "Gasabo",
+   "Sect_ID": 1206,
+   "Sector": "Jali"
+ },
+ {
+   "OBJECTID": 17,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 12,
+   "District": "Gasabo",
+   "Sect_ID": 1207,
+   "Sector": "Kacyiru"
+ },
+ {
+   "OBJECTID": 18,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 12,
+   "District": "Gasabo",
+   "Sect_ID": 1208,
+   "Sector": "Kimihurura"
+ },
+ {
+   "OBJECTID": 19,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 12,
+   "District": "Gasabo",
+   "Sect_ID": 1209,
+   "Sector": "Kimironko"
+ },
+ {
+   "OBJECTID": 20,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 12,
+   "District": "Gasabo",
+   "Sect_ID": 1210,
+   "Sector": "Kinyinya"
+ },
+ {
+   "OBJECTID": 21,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 12,
+   "District": "Gasabo",
+   "Sect_ID": 1211,
+   "Sector": "Ndera"
+ },
+ {
+   "OBJECTID": 22,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 12,
+   "District": "Gasabo",
+   "Sect_ID": 1212,
+   "Sector": "Nduba"
+ },
+ {
+   "OBJECTID": 23,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 12,
+   "District": "Gasabo",
+   "Sect_ID": 1213,
+   "Sector": "Remera"
+ },
+ {
+   "OBJECTID": 24,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 12,
+   "District": "Gasabo",
+   "Sect_ID": 1214,
+   "Sector": "Rusororo"
+ },
+ {
+   "OBJECTID": 25,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 12,
+   "District": "Gasabo",
+   "Sect_ID": 1215,
+   "Sector": "Rutunga"
+ },
+ {
+   "OBJECTID": 26,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 13,
+   "District": "Kicukiro",
+   "Sect_ID": 1301,
+   "Sector": "Gahanga"
+ },
+ {
+   "OBJECTID": 27,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 13,
+   "District": "Kicukiro",
+   "Sect_ID": 1302,
+   "Sector": "Gatenga"
+ },
+ {
+   "OBJECTID": 28,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 13,
+   "District": "Kicukiro",
+   "Sect_ID": 1303,
+   "Sector": "Gikondo"
+ },
+ {
+   "OBJECTID": 29,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 13,
+   "District": "Kicukiro",
+   "Sect_ID": 1304,
+   "Sector": "Kagarama"
+ },
+ {
+   "OBJECTID": 30,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 13,
+   "District": "Kicukiro",
+   "Sect_ID": 1305,
+   "Sector": "Kanombe"
+ },
+ {
+   "OBJECTID": 31,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 13,
+   "District": "Kicukiro",
+   "Sect_ID": 1306,
+   "Sector": "Kicukiro S"
+ },
+ {
+   "OBJECTID": 32,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 13,
+   "District": "Kicukiro",
+   "Sect_ID": 1307,
+   "Sector": "Kigarama"
+ },
+ {
+   "OBJECTID": 33,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 13,
+   "District": "Kicukiro",
+   "Sect_ID": 1308,
+   "Sector": "Masaka"
+ },
+ {
+   "OBJECTID": 34,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 13,
+   "District": "Kicukiro",
+   "Sect_ID": 1309,
+   "Sector": "Niboye"
+ },
+ {
+   "OBJECTID": 35,
+   "Prov_ID": 1,
+   "Province": "Kigali City",
+   "Dist_ID": 13,
+   "District": "Kicukiro",
+   "Sect_ID": 1310,
+   "Sector": "Nyarugunga"
+ },
+ {
+   "OBJECTID": 36,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 21,
+   "District": "Nyanza",
+   "Sect_ID": 2101,
+   "Sector": "Busasamana"
+ },
+ {
+   "OBJECTID": 37,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 21,
+   "District": "Nyanza",
+   "Sect_ID": 2102,
+   "Sector": "Busoro"
+ },
+ {
+   "OBJECTID": 38,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 21,
+   "District": "Nyanza",
+   "Sect_ID": 2103,
+   "Sector": "Cyabakamyi"
+ },
+ {
+   "OBJECTID": 39,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 21,
+   "District": "Nyanza",
+   "Sect_ID": 2104,
+   "Sector": "Kibilizi"
+ },
+ {
+   "OBJECTID": 40,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 21,
+   "District": "Nyanza",
+   "Sect_ID": 2105,
+   "Sector": "Kigoma"
+ },
+ {
+   "OBJECTID": 41,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 21,
+   "District": "Nyanza",
+   "Sect_ID": 2106,
+   "Sector": "Mukingo"
+ },
+ {
+   "OBJECTID": 42,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 21,
+   "District": "Nyanza",
+   "Sect_ID": 2107,
+   "Sector": "Muyira"
+ },
+ {
+   "OBJECTID": 43,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 21,
+   "District": "Nyanza",
+   "Sect_ID": 2108,
+   "Sector": "Ntyazo"
+ },
+ {
+   "OBJECTID": 44,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 21,
+   "District": "Nyanza",
+   "Sect_ID": 2109,
+   "Sector": "Nyagisozi"
+ },
+ {
+   "OBJECTID": 45,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 21,
+   "District": "Nyanza",
+   "Sect_ID": 2110,
+   "Sector": "Rwabicuma"
+ },
+ {
+   "OBJECTID": 46,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 22,
+   "District": "Gisagara",
+   "Sect_ID": 2201,
+   "Sector": "Gikonko"
+ },
+ {
+   "OBJECTID": 47,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 22,
+   "District": "Gisagara",
+   "Sect_ID": 2202,
+   "Sector": "Gishubi"
+ },
+ {
+   "OBJECTID": 48,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 22,
+   "District": "Gisagara",
+   "Sect_ID": 2203,
+   "Sector": "Kansi"
+ },
+ {
+   "OBJECTID": 49,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 22,
+   "District": "Gisagara",
+   "Sect_ID": 2204,
+   "Sector": "Kibirizi"
+ },
+ {
+   "OBJECTID": 50,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 22,
+   "District": "Gisagara",
+   "Sect_ID": 2205,
+   "Sector": "Kigembe"
+ },
+ {
+   "OBJECTID": 51,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 22,
+   "District": "Gisagara",
+   "Sect_ID": 2206,
+   "Sector": "Mamba"
+ },
+ {
+   "OBJECTID": 52,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 22,
+   "District": "Gisagara",
+   "Sect_ID": 2207,
+   "Sector": "Muganza"
+ },
+ {
+   "OBJECTID": 53,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 22,
+   "District": "Gisagara",
+   "Sect_ID": 2208,
+   "Sector": "Mugombwa"
+ },
+ {
+   "OBJECTID": 54,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 22,
+   "District": "Gisagara",
+   "Sect_ID": 2209,
+   "Sector": "Mukindo"
+ },
+ {
+   "OBJECTID": 55,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 22,
+   "District": "Gisagara",
+   "Sect_ID": 2210,
+   "Sector": "Musha"
+ },
+ {
+   "OBJECTID": 56,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 22,
+   "District": "Gisagara",
+   "Sect_ID": 2211,
+   "Sector": "Ndora"
+ },
+ {
+   "OBJECTID": 57,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 22,
+   "District": "Gisagara",
+   "Sect_ID": 2212,
+   "Sector": "Nyanza"
+ },
+ {
+   "OBJECTID": 58,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 22,
+   "District": "Gisagara",
+   "Sect_ID": 2213,
+   "Sector": "Save"
+ },
+ {
+   "OBJECTID": 59,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 23,
+   "District": "Nyaruguru",
+   "Sect_ID": 2301,
+   "Sector": "Busanze"
+ },
+ {
+   "OBJECTID": 60,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 23,
+   "District": "Nyaruguru",
+   "Sect_ID": 2302,
+   "Sector": "Cyahinda"
+ },
+ {
+   "OBJECTID": 61,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 23,
+   "District": "Nyaruguru",
+   "Sect_ID": 2303,
+   "Sector": "Kibeho"
+ },
+ {
+   "OBJECTID": 62,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 23,
+   "District": "Nyaruguru",
+   "Sect_ID": 2304,
+   "Sector": "Kivu"
+ },
+ {
+   "OBJECTID": 63,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 23,
+   "District": "Nyaruguru",
+   "Sect_ID": 2305,
+   "Sector": "Mata"
+ },
+ {
+   "OBJECTID": 64,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 23,
+   "District": "Nyaruguru",
+   "Sect_ID": 2306,
+   "Sector": "Muganza"
+ },
+ {
+   "OBJECTID": 65,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 23,
+   "District": "Nyaruguru",
+   "Sect_ID": 2307,
+   "Sector": "Munini"
+ },
+ {
+   "OBJECTID": 66,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 23,
+   "District": "Nyaruguru",
+   "Sect_ID": 2308,
+   "Sector": "Ngera"
+ },
+ {
+   "OBJECTID": 67,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 23,
+   "District": "Nyaruguru",
+   "Sect_ID": 2309,
+   "Sector": "Ngoma"
+ },
+ {
+   "OBJECTID": 68,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 23,
+   "District": "Nyaruguru",
+   "Sect_ID": 2310,
+   "Sector": "Nyabimata"
+ },
+ {
+   "OBJECTID": 69,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 23,
+   "District": "Nyaruguru",
+   "Sect_ID": 2311,
+   "Sector": "Nyagisozi"
+ },
+ {
+   "OBJECTID": 70,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 23,
+   "District": "Nyaruguru",
+   "Sect_ID": 2312,
+   "Sector": "Ruheru"
+ },
+ {
+   "OBJECTID": 71,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 23,
+   "District": "Nyaruguru",
+   "Sect_ID": 2313,
+   "Sector": "Ruramba"
+ },
+ {
+   "OBJECTID": 72,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 23,
+   "District": "Nyaruguru",
+   "Sect_ID": 2314,
+   "Sector": "Rusenge"
+ },
+ {
+   "OBJECTID": 73,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 24,
+   "District": "Huye",
+   "Sect_ID": 2401,
+   "Sector": "Gishamvu"
+ },
+ {
+   "OBJECTID": 74,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 24,
+   "District": "Huye",
+   "Sect_ID": 2402,
+   "Sector": "Huye S"
+ },
+ {
+   "OBJECTID": 75,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 24,
+   "District": "Huye",
+   "Sect_ID": 2403,
+   "Sector": "Karama"
+ },
+ {
+   "OBJECTID": 76,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 24,
+   "District": "Huye",
+   "Sect_ID": 2404,
+   "Sector": "Kigoma"
+ },
+ {
+   "OBJECTID": 77,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 24,
+   "District": "Huye",
+   "Sect_ID": 2405,
+   "Sector": "Kinazi"
+ },
+ {
+   "OBJECTID": 78,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 24,
+   "District": "Huye",
+   "Sect_ID": 2406,
+   "Sector": "Maraba"
+ },
+ {
+   "OBJECTID": 79,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 24,
+   "District": "Huye",
+   "Sect_ID": 2407,
+   "Sector": "Mbazi"
+ },
+ {
+   "OBJECTID": 80,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 24,
+   "District": "Huye",
+   "Sect_ID": 2408,
+   "Sector": "Mukura"
+ },
+ {
+   "OBJECTID": 81,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 24,
+   "District": "Huye",
+   "Sect_ID": 2409,
+   "Sector": "Ngoma"
+ },
+ {
+   "OBJECTID": 82,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 24,
+   "District": "Huye",
+   "Sect_ID": 2410,
+   "Sector": "Ruhashya"
+ },
+ {
+   "OBJECTID": 83,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 24,
+   "District": "Huye",
+   "Sect_ID": 2411,
+   "Sector": "Rusatira"
+ },
+ {
+   "OBJECTID": 84,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 24,
+   "District": "Huye",
+   "Sect_ID": 2412,
+   "Sector": "Rwaniro"
+ },
+ {
+   "OBJECTID": 85,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 24,
+   "District": "Huye",
+   "Sect_ID": 2413,
+   "Sector": "Simbi"
+ },
+ {
+   "OBJECTID": 86,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 24,
+   "District": "Huye",
+   "Sect_ID": 2414,
+   "Sector": "Tumba"
+ },
+ {
+   "OBJECTID": 87,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 25,
+   "District": "Nyamagabe",
+   "Sect_ID": 2501,
+   "Sector": "Buruhukiro"
+ },
+ {
+   "OBJECTID": 88,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 25,
+   "District": "Nyamagabe",
+   "Sect_ID": 2502,
+   "Sector": "Cyanika"
+ },
+ {
+   "OBJECTID": 89,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 25,
+   "District": "Nyamagabe",
+   "Sect_ID": 2503,
+   "Sector": "Gasaka"
+ },
+ {
+   "OBJECTID": 90,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 25,
+   "District": "Nyamagabe",
+   "Sect_ID": 2504,
+   "Sector": "Gatare"
+ },
+ {
+   "OBJECTID": 91,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 25,
+   "District": "Nyamagabe",
+   "Sect_ID": 2505,
+   "Sector": "Kaduha"
+ },
+ {
+   "OBJECTID": 92,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 25,
+   "District": "Nyamagabe",
+   "Sect_ID": 2506,
+   "Sector": "Kamegeri"
+ },
+ {
+   "OBJECTID": 93,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 25,
+   "District": "Nyamagabe",
+   "Sect_ID": 2507,
+   "Sector": "Kibirizi"
+ },
+ {
+   "OBJECTID": 94,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 25,
+   "District": "Nyamagabe",
+   "Sect_ID": 2508,
+   "Sector": "Kibumbwe"
+ },
+ {
+   "OBJECTID": 95,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 25,
+   "District": "Nyamagabe",
+   "Sect_ID": 2509,
+   "Sector": "Kitabi"
+ },
+ {
+   "OBJECTID": 96,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 25,
+   "District": "Nyamagabe",
+   "Sect_ID": 2510,
+   "Sector": "Mbazi"
+ },
+ {
+   "OBJECTID": 97,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 25,
+   "District": "Nyamagabe",
+   "Sect_ID": 2511,
+   "Sector": "Mugano"
+ },
+ {
+   "OBJECTID": 98,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 25,
+   "District": "Nyamagabe",
+   "Sect_ID": 2512,
+   "Sector": "Musange"
+ },
+ {
+   "OBJECTID": 99,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 25,
+   "District": "Nyamagabe",
+   "Sect_ID": 2513,
+   "Sector": "Musebeya"
+ },
+ {
+   "OBJECTID": 100,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 25,
+   "District": "Nyamagabe",
+   "Sect_ID": 2514,
+   "Sector": "Mushubi"
+ },
+ {
+   "OBJECTID": 101,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 25,
+   "District": "Nyamagabe",
+   "Sect_ID": 2515,
+   "Sector": "Nkomane"
+ },
+ {
+   "OBJECTID": 102,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 25,
+   "District": "Nyamagabe",
+   "Sect_ID": 2516,
+   "Sector": "Tare"
+ },
+ {
+   "OBJECTID": 103,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 25,
+   "District": "Nyamagabe",
+   "Sect_ID": 2517,
+   "Sector": "Uwinkingi"
+ },
+ {
+   "OBJECTID": 104,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 26,
+   "District": "Ruhango",
+   "Sect_ID": 2601,
+   "Sector": "Bweramana"
+ },
+ {
+   "OBJECTID": 105,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 26,
+   "District": "Ruhango",
+   "Sect_ID": 2602,
+   "Sector": "Byimana"
+ },
+ {
+   "OBJECTID": 106,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 26,
+   "District": "Ruhango",
+   "Sect_ID": 2603,
+   "Sector": "Kabagali"
+ },
+ {
+   "OBJECTID": 107,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 26,
+   "District": "Ruhango",
+   "Sect_ID": 2604,
+   "Sector": "Kinazi"
+ },
+ {
+   "OBJECTID": 108,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 26,
+   "District": "Ruhango",
+   "Sect_ID": 2605,
+   "Sector": "Kinihira"
+ },
+ {
+   "OBJECTID": 109,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 26,
+   "District": "Ruhango",
+   "Sect_ID": 2606,
+   "Sector": "Mbuye"
+ },
+ {
+   "OBJECTID": 110,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 26,
+   "District": "Ruhango",
+   "Sect_ID": 2607,
+   "Sector": "Mwendo"
+ },
+ {
+   "OBJECTID": 111,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 26,
+   "District": "Ruhango",
+   "Sect_ID": 2608,
+   "Sector": "Ntongwe"
+ },
+ {
+   "OBJECTID": 112,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 26,
+   "District": "Ruhango",
+   "Sect_ID": 2609,
+   "Sector": "Ruhango S"
+ },
+ {
+   "OBJECTID": 113,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 27,
+   "District": "Muhanga",
+   "Sect_ID": 2701,
+   "Sector": "Cyeza"
+ },
+ {
+   "OBJECTID": 114,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 27,
+   "District": "Muhanga",
+   "Sect_ID": 2702,
+   "Sector": "Kabacuzi"
+ },
+ {
+   "OBJECTID": 115,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 27,
+   "District": "Muhanga",
+   "Sect_ID": 2703,
+   "Sector": "Kibangu"
+ },
+ {
+   "OBJECTID": 116,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 27,
+   "District": "Muhanga",
+   "Sect_ID": 2704,
+   "Sector": "Kiyumba"
+ },
+ {
+   "OBJECTID": 117,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 27,
+   "District": "Muhanga",
+   "Sect_ID": 2705,
+   "Sector": "Muhanga S"
+ },
+ {
+   "OBJECTID": 118,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 27,
+   "District": "Muhanga",
+   "Sect_ID": 2706,
+   "Sector": "Mushishiro"
+ },
+ {
+   "OBJECTID": 119,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 27,
+   "District": "Muhanga",
+   "Sect_ID": 2707,
+   "Sector": "Nyabinoni"
+ },
+ {
+   "OBJECTID": 120,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 27,
+   "District": "Muhanga",
+   "Sect_ID": 2708,
+   "Sector": "Nyamabuye"
+ },
+ {
+   "OBJECTID": 121,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 27,
+   "District": "Muhanga",
+   "Sect_ID": 2709,
+   "Sector": "Nyarusange"
+ },
+ {
+   "OBJECTID": 122,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 27,
+   "District": "Muhanga",
+   "Sect_ID": 2710,
+   "Sector": "Rongi"
+ },
+ {
+   "OBJECTID": 123,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 27,
+   "District": "Muhanga",
+   "Sect_ID": 2711,
+   "Sector": "Rugendabari"
+ },
+ {
+   "OBJECTID": 124,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 27,
+   "District": "Muhanga",
+   "Sect_ID": 2712,
+   "Sector": "Shyogwe"
+ },
+ {
+   "OBJECTID": 125,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 28,
+   "District": "Kamonyi",
+   "Sect_ID": 2801,
+   "Sector": "Gacurabwenge"
+ },
+ {
+   "OBJECTID": 126,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 28,
+   "District": "Kamonyi",
+   "Sect_ID": 2802,
+   "Sector": "Karama"
+ },
+ {
+   "OBJECTID": 127,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 28,
+   "District": "Kamonyi",
+   "Sect_ID": 2803,
+   "Sector": "Kayenzi"
+ },
+ {
+   "OBJECTID": 128,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 28,
+   "District": "Kamonyi",
+   "Sect_ID": 2804,
+   "Sector": "Kayumbu"
+ },
+ {
+   "OBJECTID": 129,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 28,
+   "District": "Kamonyi",
+   "Sect_ID": 2805,
+   "Sector": "Mugina"
+ },
+ {
+   "OBJECTID": 130,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 28,
+   "District": "Kamonyi",
+   "Sect_ID": 2806,
+   "Sector": "Musambira"
+ },
+ {
+   "OBJECTID": 131,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 28,
+   "District": "Kamonyi",
+   "Sect_ID": 2807,
+   "Sector": "Ngamba"
+ },
+ {
+   "OBJECTID": 132,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 28,
+   "District": "Kamonyi",
+   "Sect_ID": 2808,
+   "Sector": "Nyamiyaga"
+ },
+ {
+   "OBJECTID": 133,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 28,
+   "District": "Kamonyi",
+   "Sect_ID": 2809,
+   "Sector": "Nyarubaka"
+ },
+ {
+   "OBJECTID": 134,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 28,
+   "District": "Kamonyi",
+   "Sect_ID": 2810,
+   "Sector": "Rugarika"
+ },
+ {
+   "OBJECTID": 135,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 28,
+   "District": "Kamonyi",
+   "Sect_ID": 2811,
+   "Sector": "Rukoma"
+ },
+ {
+   "OBJECTID": 136,
+   "Prov_ID": 2,
+   "Province": "Southern Province",
+   "Dist_ID": 28,
+   "District": "Kamonyi",
+   "Sect_ID": 2812,
+   "Sector": "Runda"
+ },
+ {
+   "OBJECTID": 137,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 31,
+   "District": "Karongi",
+   "Sect_ID": 3101,
+   "Sector": "Bwishyura"
+ },
+ {
+   "OBJECTID": 138,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 31,
+   "District": "Karongi",
+   "Sect_ID": 3102,
+   "Sector": "Gashari"
+ },
+ {
+   "OBJECTID": 139,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 31,
+   "District": "Karongi",
+   "Sect_ID": 3103,
+   "Sector": "Gishyita"
+ },
+ {
+   "OBJECTID": 140,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 31,
+   "District": "Karongi",
+   "Sect_ID": 3104,
+   "Sector": "Gitesi"
+ },
+ {
+   "OBJECTID": 141,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 31,
+   "District": "Karongi",
+   "Sect_ID": 3105,
+   "Sector": "Mubuga"
+ },
+ {
+   "OBJECTID": 142,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 31,
+   "District": "Karongi",
+   "Sect_ID": 3106,
+   "Sector": "Murambi"
+ },
+ {
+   "OBJECTID": 143,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 31,
+   "District": "Karongi",
+   "Sect_ID": 3107,
+   "Sector": "Murundi"
+ },
+ {
+   "OBJECTID": 144,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 31,
+   "District": "Karongi",
+   "Sect_ID": 3108,
+   "Sector": "Mutuntu"
+ },
+ {
+   "OBJECTID": 145,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 31,
+   "District": "Karongi",
+   "Sect_ID": 3109,
+   "Sector": "Rubengera"
+ },
+ {
+   "OBJECTID": 146,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 31,
+   "District": "Karongi",
+   "Sect_ID": 3110,
+   "Sector": "Rugabano"
+ },
+ {
+   "OBJECTID": 147,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 31,
+   "District": "Karongi",
+   "Sect_ID": 3111,
+   "Sector": "Ruganda"
+ },
+ {
+   "OBJECTID": 148,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 31,
+   "District": "Karongi",
+   "Sect_ID": 3112,
+   "Sector": "Rwankuba"
+ },
+ {
+   "OBJECTID": 149,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 31,
+   "District": "Karongi",
+   "Sect_ID": 3113,
+   "Sector": "Twumba"
+ },
+ {
+   "OBJECTID": 150,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 32,
+   "District": "Rutsiro",
+   "Sect_ID": 3201,
+   "Sector": "Boneza"
+ },
+ {
+   "OBJECTID": 151,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 32,
+   "District": "Rutsiro",
+   "Sect_ID": 3202,
+   "Sector": "Gihango"
+ },
+ {
+   "OBJECTID": 152,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 32,
+   "District": "Rutsiro",
+   "Sect_ID": 3203,
+   "Sector": "Kigeyo"
+ },
+ {
+   "OBJECTID": 153,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 32,
+   "District": "Rutsiro",
+   "Sect_ID": 3204,
+   "Sector": "Kivumu"
+ },
+ {
+   "OBJECTID": 154,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 32,
+   "District": "Rutsiro",
+   "Sect_ID": 3205,
+   "Sector": "Manihira"
+ },
+ {
+   "OBJECTID": 155,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 32,
+   "District": "Rutsiro",
+   "Sect_ID": 3206,
+   "Sector": "Mukura"
+ },
+ {
+   "OBJECTID": 156,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 32,
+   "District": "Rutsiro",
+   "Sect_ID": 3207,
+   "Sector": "Murunda"
+ },
+ {
+   "OBJECTID": 157,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 32,
+   "District": "Rutsiro",
+   "Sect_ID": 3208,
+   "Sector": "Musasa"
+ },
+ {
+   "OBJECTID": 158,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 32,
+   "District": "Rutsiro",
+   "Sect_ID": 3209,
+   "Sector": "Mushonyi"
+ },
+ {
+   "OBJECTID": 159,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 32,
+   "District": "Rutsiro",
+   "Sect_ID": 3210,
+   "Sector": "Mushubati"
+ },
+ {
+   "OBJECTID": 160,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 32,
+   "District": "Rutsiro",
+   "Sect_ID": 3211,
+   "Sector": "Nyabirasi"
+ },
+ {
+   "OBJECTID": 161,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 32,
+   "District": "Rutsiro",
+   "Sect_ID": 3212,
+   "Sector": "Ruhango"
+ },
+ {
+   "OBJECTID": 162,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 32,
+   "District": "Rutsiro",
+   "Sect_ID": 3213,
+   "Sector": "Rusebeya"
+ },
+ {
+   "OBJECTID": 163,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 33,
+   "District": "Rubavu",
+   "Sect_ID": 3301,
+   "Sector": "Bugeshi"
+ },
+ {
+   "OBJECTID": 164,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 33,
+   "District": "Rubavu",
+   "Sect_ID": 3302,
+   "Sector": "Busasamana"
+ },
+ {
+   "OBJECTID": 165,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 33,
+   "District": "Rubavu",
+   "Sect_ID": 3303,
+   "Sector": "Cyanzarwe"
+ },
+ {
+   "OBJECTID": 166,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 33,
+   "District": "Rubavu",
+   "Sect_ID": 3304,
+   "Sector": "Gisenyi"
+ },
+ {
+   "OBJECTID": 167,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 33,
+   "District": "Rubavu",
+   "Sect_ID": 3305,
+   "Sector": "Kanama"
+ },
+ {
+   "OBJECTID": 168,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 33,
+   "District": "Rubavu",
+   "Sect_ID": 3306,
+   "Sector": "Kanzenze"
+ },
+ {
+   "OBJECTID": 169,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 33,
+   "District": "Rubavu",
+   "Sect_ID": 3307,
+   "Sector": "Mudende"
+ },
+ {
+   "OBJECTID": 170,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 33,
+   "District": "Rubavu",
+   "Sect_ID": 3308,
+   "Sector": "Nyakiriba"
+ },
+ {
+   "OBJECTID": 171,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 33,
+   "District": "Rubavu",
+   "Sect_ID": 3309,
+   "Sector": "Nyamyumba"
+ },
+ {
+   "OBJECTID": 172,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 33,
+   "District": "Rubavu",
+   "Sect_ID": 3310,
+   "Sector": "Nyundo"
+ },
+ {
+   "OBJECTID": 173,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 33,
+   "District": "Rubavu",
+   "Sect_ID": 3311,
+   "Sector": "Rubavu S"
+ },
+ {
+   "OBJECTID": 174,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 33,
+   "District": "Rubavu",
+   "Sect_ID": 3312,
+   "Sector": "Rugerero"
+ },
+ {
+   "OBJECTID": 175,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 34,
+   "District": "Nyabihu",
+   "Sect_ID": 3401,
+   "Sector": "Bigogwe"
+ },
+ {
+   "OBJECTID": 176,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 34,
+   "District": "Nyabihu",
+   "Sect_ID": 3402,
+   "Sector": "Jenda"
+ },
+ {
+   "OBJECTID": 177,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 34,
+   "District": "Nyabihu",
+   "Sect_ID": 3403,
+   "Sector": "Jomba"
+ },
+ {
+   "OBJECTID": 178,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 34,
+   "District": "Nyabihu",
+   "Sect_ID": 3404,
+   "Sector": "Kabatwa"
+ },
+ {
+   "OBJECTID": 179,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 34,
+   "District": "Nyabihu",
+   "Sect_ID": 3405,
+   "Sector": "Karago"
+ },
+ {
+   "OBJECTID": 180,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 34,
+   "District": "Nyabihu",
+   "Sect_ID": 3406,
+   "Sector": "Kintobo"
+ },
+ {
+   "OBJECTID": 181,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 34,
+   "District": "Nyabihu",
+   "Sect_ID": 3407,
+   "Sector": "Mukamira"
+ },
+ {
+   "OBJECTID": 182,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 34,
+   "District": "Nyabihu",
+   "Sect_ID": 3408,
+   "Sector": "Muringa"
+ },
+ {
+   "OBJECTID": 183,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 34,
+   "District": "Nyabihu",
+   "Sect_ID": 3409,
+   "Sector": "Rambura"
+ },
+ {
+   "OBJECTID": 184,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 34,
+   "District": "Nyabihu",
+   "Sect_ID": 3410,
+   "Sector": "Rugera"
+ },
+ {
+   "OBJECTID": 185,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 34,
+   "District": "Nyabihu",
+   "Sect_ID": 3411,
+   "Sector": "Rurembo"
+ },
+ {
+   "OBJECTID": 186,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 34,
+   "District": "Nyabihu",
+   "Sect_ID": 3412,
+   "Sector": "Shyira"
+ },
+ {
+   "OBJECTID": 187,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 35,
+   "District": "Ngororero",
+   "Sect_ID": 3501,
+   "Sector": "Bwira"
+ },
+ {
+   "OBJECTID": 188,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 35,
+   "District": "Ngororero",
+   "Sect_ID": 3502,
+   "Sector": "Gatumba"
+ },
+ {
+   "OBJECTID": 189,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 35,
+   "District": "Ngororero",
+   "Sect_ID": 3503,
+   "Sector": "Hindiro"
+ },
+ {
+   "OBJECTID": 190,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 35,
+   "District": "Ngororero",
+   "Sect_ID": 3504,
+   "Sector": "Kabaya"
+ },
+ {
+   "OBJECTID": 191,
+   "Prov_ID": 3,
+   "Province": "Iburengerazuba",
+   "Dist_ID": 35,
+   "District": "Ngororero",
+   "Sect_ID": 3505,
+   "Sector": "Kageyo"
+ },
+ {
+   "OBJECTID": 192,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 35,
+   "District": "Ngororero",
+   "Sect_ID": 3506,
+   "Sector": "Kavumu"
+ },
+ {
+   "OBJECTID": 193,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 35,
+   "District": "Ngororero",
+   "Sect_ID": 3507,
+   "Sector": "Matyazo"
+ },
+ {
+   "OBJECTID": 194,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 35,
+   "District": "Ngororero",
+   "Sect_ID": 3508,
+   "Sector": "Muhanda"
+ },
+ {
+   "OBJECTID": 195,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 35,
+   "District": "Ngororero",
+   "Sect_ID": 3509,
+   "Sector": "Muhororo"
+ },
+ {
+   "OBJECTID": 196,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 35,
+   "District": "Ngororero",
+   "Sect_ID": 3510,
+   "Sector": "Ndaro"
+ },
+ {
+   "OBJECTID": 197,
+   "Prov_ID": 3,
+   "Province": "Iburengerazuba",
+   "Dist_ID": 35,
+   "District": "Ngororero",
+   "Sect_ID": 3511,
+   "Sector": "Ngororero S"
+ },
+ {
+   "OBJECTID": 198,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 35,
+   "District": "Ngororero",
+   "Sect_ID": 3512,
+   "Sector": "Nyange"
+ },
+ {
+   "OBJECTID": 199,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 35,
+   "District": "Ngororero",
+   "Sect_ID": 3513,
+   "Sector": "Sovu"
+ },
+ {
+   "OBJECTID": 200,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 36,
+   "District": "Rusizi",
+   "Sect_ID": 3601,
+   "Sector": "Bugarama"
+ },
+ {
+   "OBJECTID": 201,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 36,
+   "District": "Rusizi",
+   "Sect_ID": 3602,
+   "Sector": "Butare"
+ },
+ {
+   "OBJECTID": 202,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 36,
+   "District": "Rusizi",
+   "Sect_ID": 3603,
+   "Sector": "Bweyeye"
+ },
+ {
+   "OBJECTID": 203,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 36,
+   "District": "Rusizi",
+   "Sect_ID": 3604,
+   "Sector": "Gashonga"
+ },
+ {
+   "OBJECTID": 204,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 36,
+   "District": "Rusizi",
+   "Sect_ID": 3605,
+   "Sector": "Giheke"
+ },
+ {
+   "OBJECTID": 205,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 36,
+   "District": "Rusizi",
+   "Sect_ID": 3606,
+   "Sector": "Gihundwe"
+ },
+ {
+   "OBJECTID": 206,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 36,
+   "District": "Rusizi",
+   "Sect_ID": 3607,
+   "Sector": "Gikundamvura"
+ },
+ {
+   "OBJECTID": 207,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 36,
+   "District": "Rusizi",
+   "Sect_ID": 3608,
+   "Sector": "Gitambi"
+ },
+ {
+   "OBJECTID": 208,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 36,
+   "District": "Rusizi",
+   "Sect_ID": 3609,
+   "Sector": "Kamembe"
+ },
+ {
+   "OBJECTID": 209,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 36,
+   "District": "Rusizi",
+   "Sect_ID": 3610,
+   "Sector": "Muganza"
+ },
+ {
+   "OBJECTID": 210,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 36,
+   "District": "Rusizi",
+   "Sect_ID": 3611,
+   "Sector": "Mururu"
+ },
+ {
+   "OBJECTID": 211,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 36,
+   "District": "Rusizi",
+   "Sect_ID": 3612,
+   "Sector": "Nkanka"
+ },
+ {
+   "OBJECTID": 212,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 36,
+   "District": "Rusizi",
+   "Sect_ID": 3613,
+   "Sector": "Nkombo"
+ },
+ {
+   "OBJECTID": 213,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 36,
+   "District": "Rusizi",
+   "Sect_ID": 3614,
+   "Sector": "Nkungu"
+ },
+ {
+   "OBJECTID": 214,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 36,
+   "District": "Rusizi",
+   "Sect_ID": 3615,
+   "Sector": "Nyakabuye"
+ },
+ {
+   "OBJECTID": 215,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 36,
+   "District": "Rusizi",
+   "Sect_ID": 3616,
+   "Sector": "Nyakarenzo"
+ },
+ {
+   "OBJECTID": 216,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 36,
+   "District": "Rusizi",
+   "Sect_ID": 3617,
+   "Sector": "Nzahaha"
+ },
+ {
+   "OBJECTID": 217,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 36,
+   "District": "Rusizi",
+   "Sect_ID": 3618,
+   "Sector": "Rwimbogo"
+ },
+ {
+   "OBJECTID": 218,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 37,
+   "District": "Nyamasheke",
+   "Sect_ID": 3701,
+   "Sector": "Bushekeri"
+ },
+ {
+   "OBJECTID": 219,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 37,
+   "District": "Nyamasheke",
+   "Sect_ID": 3702,
+   "Sector": "Bushenge"
+ },
+ {
+   "OBJECTID": 220,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 37,
+   "District": "Nyamasheke",
+   "Sect_ID": 3703,
+   "Sector": "Cyato"
+ },
+ {
+   "OBJECTID": 221,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 37,
+   "District": "Nyamasheke",
+   "Sect_ID": 3704,
+   "Sector": "Gihombo"
+ },
+ {
+   "OBJECTID": 222,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 37,
+   "District": "Nyamasheke",
+   "Sect_ID": 3705,
+   "Sector": "Kagano"
+ },
+ {
+   "OBJECTID": 223,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 37,
+   "District": "Nyamasheke",
+   "Sect_ID": 3706,
+   "Sector": "Kanjongo"
+ },
+ {
+   "OBJECTID": 224,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 37,
+   "District": "Nyamasheke",
+   "Sect_ID": 3707,
+   "Sector": "Karambi"
+ },
+ {
+   "OBJECTID": 225,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 37,
+   "District": "Nyamasheke",
+   "Sect_ID": 3708,
+   "Sector": "Karengera"
+ },
+ {
+   "OBJECTID": 226,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 37,
+   "District": "Nyamasheke",
+   "Sect_ID": 3709,
+   "Sector": "Kirimbi"
+ },
+ {
+   "OBJECTID": 227,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 37,
+   "District": "Nyamasheke",
+   "Sect_ID": 3710,
+   "Sector": "Macuba"
+ },
+ {
+   "OBJECTID": 228,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 37,
+   "District": "Nyamasheke",
+   "Sect_ID": 3711,
+   "Sector": "Mahembe"
+ },
+ {
+   "OBJECTID": 229,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 37,
+   "District": "Nyamasheke",
+   "Sect_ID": 3712,
+   "Sector": "Nyabitekeri"
+ },
+ {
+   "OBJECTID": 230,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 37,
+   "District": "Nyamasheke",
+   "Sect_ID": 3713,
+   "Sector": "Rangiro"
+ },
+ {
+   "OBJECTID": 231,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 37,
+   "District": "Nyamasheke",
+   "Sect_ID": 3714,
+   "Sector": "Ruharambuga"
+ },
+ {
+   "OBJECTID": 232,
+   "Prov_ID": 3,
+   "Province": "Western Province",
+   "Dist_ID": 37,
+   "District": "Nyamasheke",
+   "Sect_ID": 3715,
+   "Sector": "Shangi"
+ },
+ {
+   "OBJECTID": 233,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 41,
+   "District": "Rulindo",
+   "Sect_ID": 4101,
+   "Sector": "Base"
+ },
+ {
+   "OBJECTID": 234,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 41,
+   "District": "Rulindo",
+   "Sect_ID": 4102,
+   "Sector": "Burega"
+ },
+ {
+   "OBJECTID": 235,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 41,
+   "District": "Rulindo",
+   "Sect_ID": 4103,
+   "Sector": "Bushoki"
+ },
+ {
+   "OBJECTID": 236,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 41,
+   "District": "Rulindo",
+   "Sect_ID": 4104,
+   "Sector": "Buyoga"
+ },
+ {
+   "OBJECTID": 237,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 41,
+   "District": "Rulindo",
+   "Sect_ID": 4105,
+   "Sector": "Cyinzuzi"
+ },
+ {
+   "OBJECTID": 238,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 41,
+   "District": "Rulindo",
+   "Sect_ID": 4106,
+   "Sector": "Cyungo"
+ },
+ {
+   "OBJECTID": 239,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 41,
+   "District": "Rulindo",
+   "Sect_ID": 4107,
+   "Sector": "Kinihira"
+ },
+ {
+   "OBJECTID": 240,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 41,
+   "District": "Rulindo",
+   "Sect_ID": 4108,
+   "Sector": "Kisaro"
+ },
+ {
+   "OBJECTID": 241,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 41,
+   "District": "Rulindo",
+   "Sect_ID": 4109,
+   "Sector": "Masoro"
+ },
+ {
+   "OBJECTID": 242,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 41,
+   "District": "Rulindo",
+   "Sect_ID": 4110,
+   "Sector": "Mbogo"
+ },
+ {
+   "OBJECTID": 243,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 41,
+   "District": "Rulindo",
+   "Sect_ID": 4111,
+   "Sector": "Murambi"
+ },
+ {
+   "OBJECTID": 244,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 41,
+   "District": "Rulindo",
+   "Sect_ID": 4112,
+   "Sector": "Ngoma"
+ },
+ {
+   "OBJECTID": 245,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 41,
+   "District": "Rulindo",
+   "Sect_ID": 4113,
+   "Sector": "Ntarabana"
+ },
+ {
+   "OBJECTID": 246,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 41,
+   "District": "Rulindo",
+   "Sect_ID": 4114,
+   "Sector": "Rukozo"
+ },
+ {
+   "OBJECTID": 247,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 41,
+   "District": "Rulindo",
+   "Sect_ID": 4115,
+   "Sector": "Rusiga"
+ },
+ {
+   "OBJECTID": 248,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 41,
+   "District": "Rulindo",
+   "Sect_ID": 4116,
+   "Sector": "Shyrongi"
+ },
+ {
+   "OBJECTID": 249,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 41,
+   "District": "Rulindo",
+   "Sect_ID": 4117,
+   "Sector": "Tumba"
+ },
+ {
+   "OBJECTID": 250,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 42,
+   "District": "Gakenke",
+   "Sect_ID": 4201,
+   "Sector": "Busengo"
+ },
+ {
+   "OBJECTID": 251,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 42,
+   "District": "Gakenke",
+   "Sect_ID": 4202,
+   "Sector": "Coko"
+ },
+ {
+   "OBJECTID": 252,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 42,
+   "District": "Gakenke",
+   "Sect_ID": 4203,
+   "Sector": "Cyabingo"
+ },
+ {
+   "OBJECTID": 253,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 42,
+   "District": "Gakenke",
+   "Sect_ID": 4204,
+   "Sector": "Gakenke S"
+ },
+ {
+   "OBJECTID": 254,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 42,
+   "District": "Gakenke",
+   "Sect_ID": 4205,
+   "Sector": "Gashenyi"
+ },
+ {
+   "OBJECTID": 255,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 42,
+   "District": "Gakenke",
+   "Sect_ID": 4206,
+   "Sector": "Janja"
+ },
+ {
+   "OBJECTID": 256,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 42,
+   "District": "Gakenke",
+   "Sect_ID": 4207,
+   "Sector": "Kamubuga"
+ },
+ {
+   "OBJECTID": 257,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 42,
+   "District": "Gakenke",
+   "Sect_ID": 4208,
+   "Sector": "Karambo"
+ },
+ {
+   "OBJECTID": 258,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 42,
+   "District": "Gakenke",
+   "Sect_ID": 4209,
+   "Sector": "Kivuruga"
+ },
+ {
+   "OBJECTID": 259,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 42,
+   "District": "Gakenke",
+   "Sect_ID": 4210,
+   "Sector": "Mataba"
+ },
+ {
+   "OBJECTID": 260,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 42,
+   "District": "Gakenke",
+   "Sect_ID": 4211,
+   "Sector": "Minazi"
+ },
+ {
+   "OBJECTID": 261,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 42,
+   "District": "Gakenke",
+   "Sect_ID": 4212,
+   "Sector": "Mugunga"
+ },
+ {
+   "OBJECTID": 262,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 42,
+   "District": "Gakenke",
+   "Sect_ID": 4213,
+   "Sector": "Muhondo"
+ },
+ {
+   "OBJECTID": 263,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 42,
+   "District": "Gakenke",
+   "Sect_ID": 4214,
+   "Sector": "Muyongwe"
+ },
+ {
+   "OBJECTID": 264,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 42,
+   "District": "Gakenke",
+   "Sect_ID": 4215,
+   "Sector": "Muzo"
+ },
+ {
+   "OBJECTID": 265,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 42,
+   "District": "Gakenke",
+   "Sect_ID": 4216,
+   "Sector": "Nemba"
+ },
+ {
+   "OBJECTID": 266,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 42,
+   "District": "Gakenke",
+   "Sect_ID": 4217,
+   "Sector": "Ruli"
+ },
+ {
+   "OBJECTID": 267,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 42,
+   "District": "Gakenke",
+   "Sect_ID": 4218,
+   "Sector": "Rusasa"
+ },
+ {
+   "OBJECTID": 268,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 42,
+   "District": "Gakenke",
+   "Sect_ID": 4219,
+   "Sector": "Rushashi"
+ },
+ {
+   "OBJECTID": 269,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 43,
+   "District": "Musanze",
+   "Sect_ID": 4301,
+   "Sector": "Busogo"
+ },
+ {
+   "OBJECTID": 270,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 43,
+   "District": "Musanze",
+   "Sect_ID": 4302,
+   "Sector": "Cyuve"
+ },
+ {
+   "OBJECTID": 271,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 43,
+   "District": "Musanze",
+   "Sect_ID": 4303,
+   "Sector": "Gacaca"
+ },
+ {
+   "OBJECTID": 272,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 43,
+   "District": "Musanze",
+   "Sect_ID": 4304,
+   "Sector": "Gashaki"
+ },
+ {
+   "OBJECTID": 273,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 43,
+   "District": "Musanze",
+   "Sect_ID": 4305,
+   "Sector": "Gataraga"
+ },
+ {
+   "OBJECTID": 274,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 43,
+   "District": "Musanze",
+   "Sect_ID": 4306,
+   "Sector": "Kimonyi"
+ },
+ {
+   "OBJECTID": 275,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 43,
+   "District": "Musanze",
+   "Sect_ID": 4307,
+   "Sector": "Kinigi"
+ },
+ {
+   "OBJECTID": 276,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 43,
+   "District": "Musanze",
+   "Sect_ID": 4308,
+   "Sector": "Muhoza"
+ },
+ {
+   "OBJECTID": 277,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 43,
+   "District": "Musanze",
+   "Sect_ID": 4309,
+   "Sector": "Muko"
+ },
+ {
+   "OBJECTID": 278,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 43,
+   "District": "Musanze",
+   "Sect_ID": 4310,
+   "Sector": "Musanze S"
+ },
+ {
+   "OBJECTID": 279,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 43,
+   "District": "Musanze",
+   "Sect_ID": 4311,
+   "Sector": "Nkotsi"
+ },
+ {
+   "OBJECTID": 280,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 43,
+   "District": "Musanze",
+   "Sect_ID": 4312,
+   "Sector": "Nyange"
+ },
+ {
+   "OBJECTID": 281,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 43,
+   "District": "Musanze",
+   "Sect_ID": 4313,
+   "Sector": "Remera"
+ },
+ {
+   "OBJECTID": 282,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 43,
+   "District": "Musanze",
+   "Sect_ID": 4314,
+   "Sector": "Rwaza"
+ },
+ {
+   "OBJECTID": 283,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 43,
+   "District": "Musanze",
+   "Sect_ID": 4315,
+   "Sector": "Shingiro"
+ },
+ {
+   "OBJECTID": 284,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 44,
+   "District": "Burera",
+   "Sect_ID": 4401,
+   "Sector": "Bungwe"
+ },
+ {
+   "OBJECTID": 285,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 44,
+   "District": "Burera",
+   "Sect_ID": 4402,
+   "Sector": "Butaro"
+ },
+ {
+   "OBJECTID": 286,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 44,
+   "District": "Burera",
+   "Sect_ID": 4403,
+   "Sector": "Cyanika"
+ },
+ {
+   "OBJECTID": 287,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 44,
+   "District": "Burera",
+   "Sect_ID": 4404,
+   "Sector": "Cyeru"
+ },
+ {
+   "OBJECTID": 288,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 44,
+   "District": "Burera",
+   "Sect_ID": 4405,
+   "Sector": "Gahunga"
+ },
+ {
+   "OBJECTID": 289,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 44,
+   "District": "Burera",
+   "Sect_ID": 4406,
+   "Sector": "Gatebe"
+ },
+ {
+   "OBJECTID": 290,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 44,
+   "District": "Burera",
+   "Sect_ID": 4407,
+   "Sector": "Gitovu"
+ },
+ {
+   "OBJECTID": 291,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 44,
+   "District": "Burera",
+   "Sect_ID": 4408,
+   "Sector": "Kagogo"
+ },
+ {
+   "OBJECTID": 292,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 44,
+   "District": "Burera",
+   "Sect_ID": 4409,
+   "Sector": "Kinoni"
+ },
+ {
+   "OBJECTID": 293,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 44,
+   "District": "Burera",
+   "Sect_ID": 4410,
+   "Sector": "Kinyababa"
+ },
+ {
+   "OBJECTID": 294,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 44,
+   "District": "Burera",
+   "Sect_ID": 4411,
+   "Sector": "Kivuye"
+ },
+ {
+   "OBJECTID": 295,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 44,
+   "District": "Burera",
+   "Sect_ID": 4412,
+   "Sector": "Nemba"
+ },
+ {
+   "OBJECTID": 296,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 44,
+   "District": "Burera",
+   "Sect_ID": 4413,
+   "Sector": "Rugarama"
+ },
+ {
+   "OBJECTID": 297,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 44,
+   "District": "Burera",
+   "Sect_ID": 4414,
+   "Sector": "Rugengabari"
+ },
+ {
+   "OBJECTID": 298,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 44,
+   "District": "Burera",
+   "Sect_ID": 4415,
+   "Sector": "Ruhunde"
+ },
+ {
+   "OBJECTID": 299,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 44,
+   "District": "Burera",
+   "Sect_ID": 4416,
+   "Sector": "Rusarabuye"
+ },
+ {
+   "OBJECTID": 300,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 44,
+   "District": "Burera",
+   "Sect_ID": 4417,
+   "Sector": "Rwerere"
+ },
+ {
+   "OBJECTID": 301,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 45,
+   "District": "Gicumbi",
+   "Sect_ID": 4501,
+   "Sector": "Bukure"
+ },
+ {
+   "OBJECTID": 302,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 45,
+   "District": "Gicumbi",
+   "Sect_ID": 4502,
+   "Sector": "Bwisige"
+ },
+ {
+   "OBJECTID": 303,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 45,
+   "District": "Gicumbi",
+   "Sect_ID": 4503,
+   "Sector": "Byumba"
+ },
+ {
+   "OBJECTID": 304,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 45,
+   "District": "Gicumbi",
+   "Sect_ID": 4504,
+   "Sector": "Cyumba"
+ },
+ {
+   "OBJECTID": 305,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 45,
+   "District": "Gicumbi",
+   "Sect_ID": 4505,
+   "Sector": "Giti"
+ },
+ {
+   "OBJECTID": 306,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 45,
+   "District": "Gicumbi",
+   "Sect_ID": 4506,
+   "Sector": "Kageyo"
+ },
+ {
+   "OBJECTID": 307,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 45,
+   "District": "Gicumbi",
+   "Sect_ID": 4507,
+   "Sector": "Kaniga"
+ },
+ {
+   "OBJECTID": 308,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 45,
+   "District": "Gicumbi",
+   "Sect_ID": 4508,
+   "Sector": "Manyagiro"
+ },
+ {
+   "OBJECTID": 309,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 45,
+   "District": "Gicumbi",
+   "Sect_ID": 4509,
+   "Sector": "Miyove"
+ },
+ {
+   "OBJECTID": 310,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 45,
+   "District": "Gicumbi",
+   "Sect_ID": 4510,
+   "Sector": "Mukarange"
+ },
+ {
+   "OBJECTID": 311,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 45,
+   "District": "Gicumbi",
+   "Sect_ID": 4511,
+   "Sector": "Muko"
+ },
+ {
+   "OBJECTID": 312,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 45,
+   "District": "Gicumbi",
+   "Sect_ID": 4512,
+   "Sector": "Mutete"
+ },
+ {
+   "OBJECTID": 313,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 45,
+   "District": "Gicumbi",
+   "Sect_ID": 4513,
+   "Sector": "Nyamiyaga"
+ },
+ {
+   "OBJECTID": 314,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 45,
+   "District": "Gicumbi",
+   "Sect_ID": 4514,
+   "Sector": "Nyankenke"
+ },
+ {
+   "OBJECTID": 315,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 45,
+   "District": "Gicumbi",
+   "Sect_ID": 4515,
+   "Sector": "Rubaya"
+ },
+ {
+   "OBJECTID": 316,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 45,
+   "District": "Gicumbi",
+   "Sect_ID": 4516,
+   "Sector": "Rukomo"
+ },
+ {
+   "OBJECTID": 317,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 45,
+   "District": "Gicumbi",
+   "Sect_ID": 4517,
+   "Sector": "Rushaki"
+ },
+ {
+   "OBJECTID": 318,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 45,
+   "District": "Gicumbi",
+   "Sect_ID": 4518,
+   "Sector": "Rutare"
+ },
+ {
+   "OBJECTID": 319,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 45,
+   "District": "Gicumbi",
+   "Sect_ID": 4519,
+   "Sector": "Ruvune"
+ },
+ {
+   "OBJECTID": 320,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 45,
+   "District": "Gicumbi",
+   "Sect_ID": 4520,
+   "Sector": "Rwamiko"
+ },
+ {
+   "OBJECTID": 321,
+   "Prov_ID": 4,
+   "Province": "Northern Province",
+   "Dist_ID": 45,
+   "District": "Gicumbi",
+   "Sect_ID": 4521,
+   "Sector": "Shangasha"
+ },
+ {
+   "OBJECTID": 322,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 51,
+   "District": "Rwamagana",
+   "Sect_ID": 5101,
+   "Sector": "Fumbwe"
+ },
+ {
+   "OBJECTID": 323,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 51,
+   "District": "Rwamagana",
+   "Sect_ID": 5102,
+   "Sector": "Gahengeri"
+ },
+ {
+   "OBJECTID": 324,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 51,
+   "District": "Rwamagana",
+   "Sect_ID": 5103,
+   "Sector": "Gishali"
+ },
+ {
+   "OBJECTID": 325,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 51,
+   "District": "Rwamagana",
+   "Sect_ID": 5104,
+   "Sector": "Karenge"
+ },
+ {
+   "OBJECTID": 326,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 51,
+   "District": "Rwamagana",
+   "Sect_ID": 5105,
+   "Sector": "Kigabiro"
+ },
+ {
+   "OBJECTID": 327,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 51,
+   "District": "Rwamagana",
+   "Sect_ID": 5106,
+   "Sector": "Muhazi"
+ },
+ {
+   "OBJECTID": 328,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 51,
+   "District": "Rwamagana",
+   "Sect_ID": 5107,
+   "Sector": "Munyaga"
+ },
+ {
+   "OBJECTID": 329,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 51,
+   "District": "Rwamagana",
+   "Sect_ID": 5108,
+   "Sector": "Munyiginya"
+ },
+ {
+   "OBJECTID": 330,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 51,
+   "District": "Rwamagana",
+   "Sect_ID": 5109,
+   "Sector": "Musha"
+ },
+ {
+   "OBJECTID": 331,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 51,
+   "District": "Rwamagana",
+   "Sect_ID": 5110,
+   "Sector": "Muyumbu"
+ },
+ {
+   "OBJECTID": 332,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 51,
+   "District": "Rwamagana",
+   "Sect_ID": 5111,
+   "Sector": "Mwulire"
+ },
+ {
+   "OBJECTID": 333,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 51,
+   "District": "Rwamagana",
+   "Sect_ID": 5112,
+   "Sector": "Nyakaliro"
+ },
+ {
+   "OBJECTID": 334,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 51,
+   "District": "Rwamagana",
+   "Sect_ID": 5113,
+   "Sector": "Nzige"
+ },
+ {
+   "OBJECTID": 335,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 51,
+   "District": "Rwamagana",
+   "Sect_ID": 5114,
+   "Sector": "Rubona"
+ },
+ {
+   "OBJECTID": 336,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 52,
+   "District": "Nyagatare",
+   "Sect_ID": 5201,
+   "Sector": "Gatunda"
+ },
+ {
+   "OBJECTID": 337,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 52,
+   "District": "Nyagatare",
+   "Sect_ID": 5202,
+   "Sector": "Karama"
+ },
+ {
+   "OBJECTID": 338,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 52,
+   "District": "Nyagatare",
+   "Sect_ID": 5203,
+   "Sector": "Karangazi"
+ },
+ {
+   "OBJECTID": 339,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 52,
+   "District": "Nyagatare",
+   "Sect_ID": 5204,
+   "Sector": "Katabagemu"
+ },
+ {
+   "OBJECTID": 340,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 52,
+   "District": "Nyagatare",
+   "Sect_ID": 5205,
+   "Sector": "Kiyombe"
+ },
+ {
+   "OBJECTID": 341,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 52,
+   "District": "Nyagatare",
+   "Sect_ID": 5206,
+   "Sector": "Matimba"
+ },
+ {
+   "OBJECTID": 342,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 52,
+   "District": "Nyagatare",
+   "Sect_ID": 5207,
+   "Sector": "Mimuri"
+ },
+ {
+   "OBJECTID": 343,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 52,
+   "District": "Nyagatare",
+   "Sect_ID": 5208,
+   "Sector": "Mukama"
+ },
+ {
+   "OBJECTID": 344,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 52,
+   "District": "Nyagatare",
+   "Sect_ID": 5209,
+   "Sector": "Musheri"
+ },
+ {
+   "OBJECTID": 345,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 52,
+   "District": "Nyagatare",
+   "Sect_ID": 5210,
+   "Sector": "Nyagatare S"
+ },
+ {
+   "OBJECTID": 346,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 52,
+   "District": "Nyagatare",
+   "Sect_ID": 5211,
+   "Sector": "Rukomo"
+ },
+ {
+   "OBJECTID": 347,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 52,
+   "District": "Nyagatare",
+   "Sect_ID": 5212,
+   "Sector": "Rwempasha"
+ },
+ {
+   "OBJECTID": 348,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 52,
+   "District": "Nyagatare",
+   "Sect_ID": 5213,
+   "Sector": "Rwimiyaga"
+ },
+ {
+   "OBJECTID": 349,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 52,
+   "District": "Nyagatare",
+   "Sect_ID": 5214,
+   "Sector": "Tabagwe"
+ },
+ {
+   "OBJECTID": 350,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 53,
+   "District": "Gatsibo",
+   "Sect_ID": 5301,
+   "Sector": "Gasange"
+ },
+ {
+   "OBJECTID": 351,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 53,
+   "District": "Gatsibo",
+   "Sect_ID": 5302,
+   "Sector": "Gatsibo S"
+ },
+ {
+   "OBJECTID": 352,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 53,
+   "District": "Gatsibo",
+   "Sect_ID": 5303,
+   "Sector": "Gitoki"
+ },
+ {
+   "OBJECTID": 353,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 53,
+   "District": "Gatsibo",
+   "Sect_ID": 5304,
+   "Sector": "Kabarore"
+ },
+ {
+   "OBJECTID": 354,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 53,
+   "District": "Gatsibo",
+   "Sect_ID": 5305,
+   "Sector": "Kageyo"
+ },
+ {
+   "OBJECTID": 355,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 53,
+   "District": "Gatsibo",
+   "Sect_ID": 5306,
+   "Sector": "Kiramuruzi"
+ },
+ {
+   "OBJECTID": 356,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 53,
+   "District": "Gatsibo",
+   "Sect_ID": 5307,
+   "Sector": "Kiziguro"
+ },
+ {
+   "OBJECTID": 357,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 53,
+   "District": "Gatsibo",
+   "Sect_ID": 5308,
+   "Sector": "Muhura"
+ },
+ {
+   "OBJECTID": 358,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 53,
+   "District": "Gatsibo",
+   "Sect_ID": 5309,
+   "Sector": "Murambi"
+ },
+ {
+   "OBJECTID": 359,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 53,
+   "District": "Gatsibo",
+   "Sect_ID": 5310,
+   "Sector": "Ngarama"
+ },
+ {
+   "OBJECTID": 360,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 53,
+   "District": "Gatsibo",
+   "Sect_ID": 5311,
+   "Sector": "Nyagihanga"
+ },
+ {
+   "OBJECTID": 361,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 53,
+   "District": "Gatsibo",
+   "Sect_ID": 5312,
+   "Sector": "Remera"
+ },
+ {
+   "OBJECTID": 362,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 53,
+   "District": "Gatsibo",
+   "Sect_ID": 5313,
+   "Sector": "Rugarama"
+ },
+ {
+   "OBJECTID": 363,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 53,
+   "District": "Gatsibo",
+   "Sect_ID": 5314,
+   "Sector": "Rwimbogo"
+ },
+ {
+   "OBJECTID": 364,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 54,
+   "District": "Kayonza",
+   "Sect_ID": 5401,
+   "Sector": "Gahini"
+ },
+ {
+   "OBJECTID": 365,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 54,
+   "District": "Kayonza",
+   "Sect_ID": 5402,
+   "Sector": "Kabare"
+ },
+ {
+   "OBJECTID": 366,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 54,
+   "District": "Kayonza",
+   "Sect_ID": 5403,
+   "Sector": "Kabarondo"
+ },
+ {
+   "OBJECTID": 367,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 54,
+   "District": "Kayonza",
+   "Sect_ID": 5404,
+   "Sector": "Mukarange"
+ },
+ {
+   "OBJECTID": 368,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 54,
+   "District": "Kayonza",
+   "Sect_ID": 5405,
+   "Sector": "Murama"
+ },
+ {
+   "OBJECTID": 369,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 54,
+   "District": "Kayonza",
+   "Sect_ID": 5406,
+   "Sector": "Murundi"
+ },
+ {
+   "OBJECTID": 370,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 54,
+   "District": "Kayonza",
+   "Sect_ID": 5407,
+   "Sector": "Mwiri"
+ },
+ {
+   "OBJECTID": 371,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 54,
+   "District": "Kayonza",
+   "Sect_ID": 5408,
+   "Sector": "Ndego"
+ },
+ {
+   "OBJECTID": 372,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 54,
+   "District": "Kayonza",
+   "Sect_ID": 5409,
+   "Sector": "Nyamirama"
+ },
+ {
+   "OBJECTID": 373,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 54,
+   "District": "Kayonza",
+   "Sect_ID": 5410,
+   "Sector": "Rukara"
+ },
+ {
+   "OBJECTID": 374,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 54,
+   "District": "Kayonza",
+   "Sect_ID": 5411,
+   "Sector": "Ruramira"
+ },
+ {
+   "OBJECTID": 375,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 54,
+   "District": "Kayonza",
+   "Sect_ID": 5412,
+   "Sector": "Rwinkwavu"
+ },
+ {
+   "OBJECTID": 376,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 55,
+   "District": "Kirehe",
+   "Sect_ID": 5501,
+   "Sector": "Gahara"
+ },
+ {
+   "OBJECTID": 377,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 55,
+   "District": "Kirehe",
+   "Sect_ID": 5502,
+   "Sector": "Gatore"
+ },
+ {
+   "OBJECTID": 378,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 55,
+   "District": "Kirehe",
+   "Sect_ID": 5503,
+   "Sector": "Kigarama"
+ },
+ {
+   "OBJECTID": 379,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 55,
+   "District": "Kirehe",
+   "Sect_ID": 5504,
+   "Sector": "Kigina"
+ },
+ {
+   "OBJECTID": 380,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 55,
+   "District": "Kirehe",
+   "Sect_ID": 5505,
+   "Sector": "Kirehe S"
+ },
+ {
+   "OBJECTID": 381,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 55,
+   "District": "Kirehe",
+   "Sect_ID": 5506,
+   "Sector": "Mahama"
+ },
+ {
+   "OBJECTID": 382,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 55,
+   "District": "Kirehe",
+   "Sect_ID": 5507,
+   "Sector": "Mpanga"
+ },
+ {
+   "OBJECTID": 383,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 55,
+   "District": "Kirehe",
+   "Sect_ID": 5508,
+   "Sector": "Musaza"
+ },
+ {
+   "OBJECTID": 384,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 55,
+   "District": "Kirehe",
+   "Sect_ID": 5509,
+   "Sector": "Mushikiri"
+ },
+ {
+   "OBJECTID": 385,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 55,
+   "District": "Kirehe",
+   "Sect_ID": 5510,
+   "Sector": "Nasho"
+ },
+ {
+   "OBJECTID": 386,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 55,
+   "District": "Kirehe",
+   "Sect_ID": 5511,
+   "Sector": "Nyamugari"
+ },
+ {
+   "OBJECTID": 387,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 55,
+   "District": "Kirehe",
+   "Sect_ID": 5512,
+   "Sector": "Nyarubuye"
+ },
+ {
+   "OBJECTID": 388,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 56,
+   "District": "Ngoma",
+   "Sect_ID": 5601,
+   "Sector": "Gashanda"
+ },
+ {
+   "OBJECTID": 389,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 56,
+   "District": "Ngoma",
+   "Sect_ID": 5602,
+   "Sector": "Jarama"
+ },
+ {
+   "OBJECTID": 390,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 56,
+   "District": "Ngoma",
+   "Sect_ID": 5603,
+   "Sector": "Karembo"
+ },
+ {
+   "OBJECTID": 391,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 56,
+   "District": "Ngoma",
+   "Sect_ID": 5604,
+   "Sector": "Kazo"
+ },
+ {
+   "OBJECTID": 392,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 56,
+   "District": "Ngoma",
+   "Sect_ID": 5605,
+   "Sector": "Kibungo"
+ },
+ {
+   "OBJECTID": 393,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 56,
+   "District": "Ngoma",
+   "Sect_ID": 5606,
+   "Sector": "Mugesera"
+ },
+ {
+   "OBJECTID": 394,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 56,
+   "District": "Ngoma",
+   "Sect_ID": 5607,
+   "Sector": "Murama"
+ },
+ {
+   "OBJECTID": 395,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 56,
+   "District": "Ngoma",
+   "Sect_ID": 5608,
+   "Sector": "Mutenderi"
+ },
+ {
+   "OBJECTID": 396,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 56,
+   "District": "Ngoma",
+   "Sect_ID": 5609,
+   "Sector": "Remera"
+ },
+ {
+   "OBJECTID": 397,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 56,
+   "District": "Ngoma",
+   "Sect_ID": 5610,
+   "Sector": "Rukira"
+ },
+ {
+   "OBJECTID": 398,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 56,
+   "District": "Ngoma",
+   "Sect_ID": 5611,
+   "Sector": "Rukumberi"
+ },
+ {
+   "OBJECTID": 399,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 56,
+   "District": "Ngoma",
+   "Sect_ID": 5612,
+   "Sector": "Rurenge"
+ },
+ {
+   "OBJECTID": 400,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 56,
+   "District": "Ngoma",
+   "Sect_ID": 5613,
+   "Sector": "Sake"
+ },
+ {
+   "OBJECTID": 401,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 56,
+   "District": "Ngoma",
+   "Sect_ID": 5614,
+   "Sector": "Zaza"
+ },
+ {
+   "OBJECTID": 402,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 57,
+   "District": "Bugesera",
+   "Sect_ID": 5701,
+   "Sector": "Gashora"
+ },
+ {
+   "OBJECTID": 403,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 57,
+   "District": "Bugesera",
+   "Sect_ID": 5702,
+   "Sector": "Juru"
+ },
+ {
+   "OBJECTID": 404,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 57,
+   "District": "Bugesera",
+   "Sect_ID": 5703,
+   "Sector": "Kamabuye"
+ },
+ {
+   "OBJECTID": 405,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 57,
+   "District": "Bugesera",
+   "Sect_ID": 5704,
+   "Sector": "Mareba"
+ },
+ {
+   "OBJECTID": 406,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 57,
+   "District": "Bugesera",
+   "Sect_ID": 5705,
+   "Sector": "Mayange"
+ },
+ {
+   "OBJECTID": 407,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 57,
+   "District": "Bugesera",
+   "Sect_ID": 5706,
+   "Sector": "Musenyi"
+ },
+ {
+   "OBJECTID": 408,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 57,
+   "District": "Bugesera",
+   "Sect_ID": 5707,
+   "Sector": "Mwogo"
+ },
+ {
+   "OBJECTID": 409,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 57,
+   "District": "Bugesera",
+   "Sect_ID": 5708,
+   "Sector": "Ngeruka"
+ },
+ {
+   "OBJECTID": 410,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 57,
+   "District": "Bugesera",
+   "Sect_ID": 5709,
+   "Sector": "Ntarama"
+ },
+ {
+   "OBJECTID": 411,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 57,
+   "District": "Bugesera",
+   "Sect_ID": 5710,
+   "Sector": "Nyamata"
+ },
+ {
+   "OBJECTID": 412,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 57,
+   "District": "Bugesera",
+   "Sect_ID": 5711,
+   "Sector": "Nyarugenge"
+ },
+ {
+   "OBJECTID": 413,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 57,
+   "District": "Bugesera",
+   "Sect_ID": 5712,
+   "Sector": "Rilima"
+ },
+ {
+   "OBJECTID": 414,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 57,
+   "District": "Bugesera",
+   "Sect_ID": 5713,
+   "Sector": "Ruhuha"
+ },
+ {
+   "OBJECTID": 415,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 57,
+   "District": "Bugesera",
+   "Sect_ID": 5714,
+   "Sector": "Rweru"
+ },
+ {
+   "OBJECTID": 416,
+   "Prov_ID": 5,
+   "Province": "Eastern Province",
+   "Dist_ID": 57,
+   "District": "Bugesera",
+   "Sect_ID": 5715,
+   "Sector": "Shyara"
+ }
+]
